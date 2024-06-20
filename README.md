@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Data Visualizer(Streamlit)](https://github.com/chirag-dudhrejia/data_visualizer)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://chirag-portfolio-vutm.onrender.com/](https://chirag-portfolio-vutm.onrender.com/)
+- 👨‍💻 Know more about me at [My Website](https://chirag-dudhrejia.github.io/portfolio_website/)
 
 - 📫 How to reach me **dchirag159@gmail.com**
 
