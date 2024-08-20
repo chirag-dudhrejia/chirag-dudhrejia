@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirag-dudhrejia" alt="chirag-dudhrejia" /></a> </p>
 
-- 🔭 I’m currently working on [Movies analytics Dashboard(Streamlit)](https://github.com/chirag-dudhrejia/movies_dashboard_streamlit_project)
+- 🔭 I’m currently working on [Resume parsing and Job recommendation](https://github.com/chirag-dudhrejia/resume_parsing_job_recommendation)
 
 - 🌱 I’m currently learning **Machine Learning**
 
